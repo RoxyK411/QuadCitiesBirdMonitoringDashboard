@@ -1,0 +1,458 @@
+{
+    "dashboard": "Quad Cities Bird Monitoring Network",
+    "region": "Quad Cities",
+    "updated": "2026-07-28 22:08",
+    "species_count": 50,
+    "observations": [
+        {
+            "species": "Purple Martin",
+            "scientific_name": "Progne subis",
+            "location": "Nahant Marsh",
+            "time": "2026-07-27 11:23",
+            "count": 1,
+            "lat": 41.4902885,
+            "lng": -90.6363916
+        },
+        {
+            "species": "Eastern Wood-Pewee",
+            "scientific_name": "Contopus virens",
+            "location": "Nahant Marsh",
+            "time": "2026-07-27 11:23",
+            "count": 1,
+            "lat": 41.4902885,
+            "lng": -90.6363916
+        },
+        {
+            "species": "Northern Cardinal",
+            "scientific_name": "Cardinalis cardinalis",
+            "location": "Nahant Marsh",
+            "time": "2026-07-27 11:23",
+            "count": 1,
+            "lat": 41.4902885,
+            "lng": -90.6363916
+        },
+        {
+            "species": "American White Pelican",
+            "scientific_name": "Pelecanus erythrorhynchos",
+            "location": "Under I-80 Bridge",
+            "time": "2026-07-26 10:55",
+            "count": 1,
+            "lat": 41.5817386,
+            "lng": -90.3665829
+        },
+        {
+            "species": "Blue Grosbeak",
+            "scientific_name": "Passerina caerulea",
+            "location": "Rockingham Bottoms",
+            "time": "2026-07-26 08:00",
+            "count": 2,
+            "lat": 41.4856157,
+            "lng": -90.6388383
+        },
+        {
+            "species": "American Redstart",
+            "scientific_name": "Setophaga ruticilla",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 1,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Mallard",
+            "scientific_name": "Anas platyrhynchos",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 5,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Mourning Dove",
+            "scientific_name": "Zenaida macroura",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 20,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "American Robin",
+            "scientific_name": "Turdus migratorius",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 20,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Rose-breasted Grosbeak",
+            "scientific_name": "Pheucticus ludovicianus",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 1,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Ring-billed Gull",
+            "scientific_name": "Larus delawarensis",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 1,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Great Egret",
+            "scientific_name": "Ardea alba",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 1,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Gray Catbird",
+            "scientific_name": "Dumetella carolinensis",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 1,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Hairy Woodpecker",
+            "scientific_name": "Leuconotopicus villosus",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 2,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "House Finch",
+            "scientific_name": "Haemorhous mexicanus",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 1,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "House Sparrow",
+            "scientific_name": "Passer domesticus",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 30,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Common Grackle",
+            "scientific_name": "Quiscalus quiscula",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 5,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Bald Eagle",
+            "scientific_name": "Haliaeetus leucocephalus",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 1,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Red-bellied Woodpecker",
+            "scientific_name": "Melanerpes carolinus",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 4,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Downy Woodpecker",
+            "scientific_name": "Dryobates pubescens",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 4,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "European Starling",
+            "scientific_name": "Sturnus vulgaris",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 20,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Eurasian Tree Sparrow",
+            "scientific_name": "Passer montanus",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 5,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Great Blue Heron",
+            "scientific_name": "Ardea herodias",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 5,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "White-breasted Nuthatch",
+            "scientific_name": "Sitta carolinensis",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 5,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Canada Goose",
+            "scientific_name": "Branta canadensis",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 100,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Red-winged Blackbird",
+            "scientific_name": "Agelaius phoeniceus",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 30,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Red-headed Woodpecker",
+            "scientific_name": "Melanerpes erythrocephalus",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 1,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Chimney Swift",
+            "scientific_name": "Chaetura pelagica",
+            "location": "Credit Island Park",
+            "time": "2026-07-26 07:09",
+            "count": 15,
+            "lat": 41.4988068,
+            "lng": -90.6145315
+        },
+        {
+            "species": "Song Sparrow",
+            "scientific_name": "Melospiza melodia",
+            "location": "Nahant Marsh",
+            "time": "2026-07-26 05:58",
+            "count": 1,
+            "lat": 41.4902885,
+            "lng": -90.6363916
+        },
+        {
+            "species": "Indigo Bunting",
+            "scientific_name": "Passerina cyanea",
+            "location": "Nahant Marsh",
+            "time": "2026-07-26 05:58",
+            "count": 1,
+            "lat": 41.4902885,
+            "lng": -90.6363916
+        },
+        {
+            "species": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "location": "Nahant Marsh",
+            "time": "2026-07-26 05:58",
+            "count": 1,
+            "lat": 41.4902885,
+            "lng": -90.6363916
+        },
+        {
+            "species": "Double-crested Cormorant",
+            "scientific_name": "Nannopterum auritum",
+            "location": "Nahant Marsh",
+            "time": "2026-07-26 05:58",
+            "count": 1,
+            "lat": 41.4902885,
+            "lng": -90.6363916
+        },
+        {
+            "species": "Wood Duck",
+            "scientific_name": "Aix sponsa",
+            "location": "Nahant Marsh",
+            "time": "2026-07-26 05:58",
+            "count": null,
+            "lat": 41.4902885,
+            "lng": -90.6363916
+        },
+        {
+            "species": "American Crow",
+            "scientific_name": "Corvus brachyrhynchos",
+            "location": "Nahant Marsh",
+            "time": "2026-07-26 05:58",
+            "count": 2,
+            "lat": 41.4902885,
+            "lng": -90.6363916
+        },
+        {
+            "species": "American Goldfinch",
+            "scientific_name": "Spinus tristis",
+            "location": "Nahant Marsh",
+            "time": "2026-07-26 05:58",
+            "count": 1,
+            "lat": 41.4902885,
+            "lng": -90.6363916
+        },
+        {
+            "species": "Northern Parula",
+            "scientific_name": "Setophaga americana",
+            "location": "Nahant Marsh",
+            "time": "2026-07-26 05:58",
+            "count": 1,
+            "lat": 41.4902885,
+            "lng": -90.6363916
+        },
+        {
+            "species": "Eastern Kingbird",
+            "scientific_name": "Tyrannus tyrannus",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 2,
+            "lat": 41.713972,
+            "lng": -90.532652
+        },
+        {
+            "species": "Baltimore Oriole",
+            "scientific_name": "Icterus galbula",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 1,
+            "lat": 41.713972,
+            "lng": -90.532652
+        },
+        {
+            "species": "Barn Swallow",
+            "scientific_name": "Hirundo rustica",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 2,
+            "lat": 41.713972,
+            "lng": -90.532652
+        },
+        {
+            "species": "Black-capped Chickadee",
+            "scientific_name": "Poecile atricapillus",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 2,
+            "lat": 41.713972,
+            "lng": -90.532652
+        },
+        {
+            "species": "Blue Jay",
+            "scientific_name": "Cyanocitta cristata",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 6,
+            "lat": 41.713972,
+            "lng": -90.532652
+        },
+        {
+            "species": "Blue-gray Gnatcatcher",
+            "scientific_name": "Polioptila caerulea",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 2,
+            "lat": 41.713972,
+            "lng": -90.532652
+        },
+        {
+            "species": "Common Yellowthroat",
+            "scientific_name": "Geothlypis trichas",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 6,
+            "lat": 41.713972,
+            "lng": -90.532652
+        },
+        {
+            "species": "Eastern Towhee",
+            "scientific_name": "Pipilo erythrophthalmus",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 1,
+            "lat": 41.713972,
+            "lng": -90.532652
+        },
+        {
+            "species": "Field Sparrow",
+            "scientific_name": "Spizella pusilla",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 2,
+            "lat": 41.713972,
+            "lng": -90.532652
+        },
+        {
+            "species": "Great Crested Flycatcher",
+            "scientific_name": "Myiarchus crinitus",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 2,
+            "lat": 41.713972,
+            "lng": -90.532652
+        },
+        {
+            "species": "Northern House Wren",
+            "scientific_name": "Troglodytes aedon",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 2,
+            "lat": 41.713972,
+            "lng": -90.532652
+        },
+        {
+            "species": "Northern Flicker",
+            "scientific_name": "Colaptes auratus",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 1,
+            "lat": 41.713972,
+            "lng": -90.532652
+        },
+        {
+            "species": "Red-eyed Vireo",
+            "scientific_name": "Vireo olivaceus",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 1,
+            "lat": 41.713972,
+            "lng": -90.532652
+        },
+        {
+            "species": "Red-tailed Hawk",
+            "scientific_name": "Buteo jamaicensis",
+            "location": "Scott County Park, Long Grove US-IA 41.71397, -90.53265",
+            "time": "2026-07-25 13:55",
+            "count": 1,
+            "lat": 41.713972,
+            "lng": -90.532652
+        }
+    ]
+}
