@@ -15,9 +15,7 @@ Features
 
 🧩 Lightweight JSON dataset (qc_birds.json) for easy updates and expansion
 
-Live Demo
-GitHub Pages Deployment:  
-(Add your link here once you publish — your repo shows a deployment 2 weeks ago.) 
+Live Demo 
 
 File Structure
 index.html — main dashboard interface
@@ -31,19 +29,19 @@ qc_birds.json — bird observation dataset
 Purpose
 This project supports:
 
-Community science participation
+-Community science participation
 
-Local conservation decision‑making
+-Local conservation decision‑making
 
-Public education and engagement
+-Public education and engagement
 
-Quad Cities ecological storytelling
+-Quad Cities ecological storytelling
 
-Future Enhancements
+-Future Enhancements
 API‑based data ingestion
 
-Species trend analytics
+-Species trend analytics
 
-Heatmaps for migration timing
+-Heatmaps for migration timing
 
-Mobile‑optimized interface
+-Mobile‑optimized interface
